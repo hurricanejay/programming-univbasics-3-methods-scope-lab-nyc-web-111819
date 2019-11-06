@@ -8,4 +8,4 @@ def toadstool
 end
 
 def link
-  puts status = 'It's dangerous to go alone! Take this!\n
+  puts status = 'It`s dangerous to go alone! Take this!\n'
