@@ -12,6 +12,5 @@ def link
 end
 
 def any_phrase
-  takes in an argument and puts out the catch phrase"
   puts = "Do A Barrel Roll!"
 end
