@@ -11,6 +11,6 @@ def link
   puts status = "It's Dangerous To Go Alone! Take This."
 end
 
-def any_phrase("takes in an argument and puts out the catch phrase")
+def any_phrase(phrase)
   puts = 'Do A Barrel Roll!'
 end
